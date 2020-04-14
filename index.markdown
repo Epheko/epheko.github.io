@@ -4,3 +4,14 @@
 
 layout: default
 ---
+# 見出し1
+
+テストテキストだよ！！！
+============
+
+hogehoge
+ほげほげほげ
+ふが
+
+##リンクテスト
+[about](https://epheko.github.io/EphekoGamesHP/about)
