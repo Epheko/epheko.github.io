@@ -21,7 +21,7 @@
 title: Epheko Games
 email: ephedrine.game@gmail.com
 description:
-baseurl: "https://epheko.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EphedrineUniuni
 github_username: Epheko
