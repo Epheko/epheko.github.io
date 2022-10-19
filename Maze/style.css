@@ -1,0 +1,41 @@
+body {
+    padding-top: 200px;
+    margin: 0;
+    background-color: black;
+}
+
+#form {
+    margin: auto;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 2px 4px 3px #aaaaaa;
+}
+
+.fi {
+    display: flex;
+}
+
+#slider {
+    margin: 10px 0;
+}
+
+#map {
+    position: relative;
+    display: none;
+}
+
+#map table {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: none;
+    border-collapse: collapse;
+}
+
+td,
+tr {
+    border: none;
+}
