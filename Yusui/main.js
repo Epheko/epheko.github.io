@@ -30,9 +30,11 @@ $("button").click(() => {
             console.debug("load dummy");
             Summon();
         }
+    }else
+    {
+        Summon();
     }
-
-    
+    currentPref=pref;
 })
 
 function Summon()
