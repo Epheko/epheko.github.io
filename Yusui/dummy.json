@@ -1,0 +1,38 @@
+{
+    "result": [
+        {
+            "access": "◎",
+            "activity": "付近住民等が設置した利用マナー等が書かれた立て看板がある。\nまた，定期的に周辺の清掃等を行っているようである。",
+            "address": "北海道旭川市東旭川町瑞穂",
+            "createCd": null,
+            "createDate": null,
+            "furigana": "かみなんぶすいじんぐうのみず",
+            "id": 1,
+            "latitude": 43.720669,
+            "link": null,
+            "longitude": 142.658768,
+            "name": "上南部水神宮の水",
+            "oldAddress": "旭川市\n東旭川町瑞穂",
+            "overview": "郊外の山あいの山腹から湧出している湧水。\n湧出場所への立入可能。",
+            "updateCd": null,
+            "updateDate": null
+        },
+        {
+            "access": "◎",
+            "activity": "湧水を含めた春採湖周辺の自然環境把握",
+            "address": "北海道釧路市春採",
+            "createCd": null,
+            "createDate": null,
+            "furigana": "",
+            "id": 2,
+            "latitude": 42.970158,
+            "link": null,
+            "longitude": 144.400345,
+            "name": null,
+            "oldAddress": "釧路市\n春採",
+            "overview": "春採湖岸周辺の崖面や住宅地の緩やかな斜面から湧き出している。\n湧出口付近には花が咲き、流量も適度にある。",
+            "updateCd": null,
+            "updateDate": null
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+/*https://cotodama.co/css_bg-img-color/*/
+
+body
+{
+    text-align: center;
+    margin: auto;
+    padding:10px 20%;
+    padding-top: 0;
+    background: url(washi.jpg);
+}
+
+/*divの方*/
+#svg
+{
+    height: fit-content;
+    padding: 20px;
+}
+
+svg
+{
+    height: 250px;
+    stroke: rgb(237, 237, 237);
+    stroke-width: 5px;
+    animation: fadeIn 1s both;
+}
+
+@keyframes fadeIn{
+    0% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  }
+
+#ex
+{
+    height:fit-content;
+    margin-bottom: 20px;
+}
+
+#input div
+{
+    margin: 10px;
+}
+
+h1,h3,p,span
+{
+    color: rgb(237, 237, 237);
+    font-family:serif;
+}
+
+h1
+{
+    border-bottom: solid 2px teal;
+    border-image: linear-gradient(to right, teal 0%, rgb(128, 203, 203) 50%, teal 100%);
+    border-image-slice: 1;
+}
+
+.overview-wrapper
+{
+    width: 100%;
+    text-align: left;
+}
+
+select,button
+{
+    font-family:serif;
+    background-color: teal;
+    color: aliceblue;
+    box-shadow: 0 3px rgba(0, 0, 0, 0.456);
+    border: none;}
+
+button
+{
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+
+}
+
+select
+{
+    width: 200px;
+    height: 36px;
+    font-size: 16px;
+    text-align: center;
+}
+
+a{
+    color: aliceblue;
+}
